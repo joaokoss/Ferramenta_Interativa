@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Qual foi o primeiro país a se tornar uma república?',
+    'Foi San Marino'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Sociologia',
+    'Quem é considerado pai da sociologia?',
+    'Auguste Comte'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Exemplos de elementos necessários para a vida?',
+    'Água, oxigênio, temperatuta, Energia solar, Atmosfera, etc.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'Qual o elemento mais abundante do universo?',
+    'É o Hidrogênio'
 )
